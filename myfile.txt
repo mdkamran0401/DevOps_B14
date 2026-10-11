@@ -1,0 +1,10 @@
+Hi I am Mohammad Kamran
+
+Good Morning. I am currently learning Linux OS commands.
+
+
+
+
+Salam
+hello world, how are you?
+$ date

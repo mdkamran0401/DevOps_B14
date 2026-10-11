@@ -1,0 +1,9 @@
+Name    Department    Salary    Location
+Alice   Engineering   95000     New-York
+Bob     Marketing     78000     London
+Charlie Sales         82000     Paris
+Madie   Medical	      70000
+Nida	Student                 Italy
+Toni                  80000	Tokyo
+Raju    Farming       90000	Punjab
+Soniya	Business      85000	Delhi
