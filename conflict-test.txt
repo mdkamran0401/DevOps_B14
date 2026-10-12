@@ -1,3 +1,4 @@
 Line 1: Welcome to our project
+Line 2: This text was edited by Branch B.
 Line 2: This text was edited by Branch A.
 Line 3: Thank you for visiting
